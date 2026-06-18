@@ -1,0 +1,187 @@
+*{
+    padding:0;
+    margin:2px;
+}
+body{
+    text-align: center;
+}
+.header{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    width: 1000px;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.welcome{
+    padding-top: 10px;
+}
+
+.food-one{
+    border: solid 3px black;
+    width: 200px;
+    height: 400px;
+    background-color: white;
+   
+            
+    }
+
+.food-one img{
+    height:70%;
+    width:95%;
+}
+
+.content-one{
+
+    text-align: center;
+}
+
+des{
+    display:block;
+    text-align: justify;
+     margin-bottom: 20px;
+}
+
+.button-one{
+    padding: 2px;
+    background-color:black;
+    color:white;
+}
+
+.food-two{
+     border: solid 3px black;
+    width: 200px;
+    height: 400px;
+    background-color: white;
+    vertical-align: top;
+            
+    }
+
+.food-two img{
+    height:70%;
+    width:99%;
+}
+
+.content-two{
+
+    text-align: center;
+}
+
+des{
+    display:block;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+.button-two{
+    padding: 2px;
+    background-color:black;
+    color:white;
+}
+
+.food-three{
+     border: solid 3px black;
+    width: 200px;
+    height: 400px;
+    background-color: white;
+    vertical-align: top;
+            
+    }
+
+.food-three img{
+    height:70%;
+    width:99%;
+}
+
+.content-three{
+
+    text-align: center;
+}
+
+des{
+    display:block;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+.button-three{
+    padding: 2px;
+    background-color:black;
+    color:white;
+}
+
+.food-four{
+     border: solid 3px black;
+    width: 200px;
+    height: 400px;
+    background-color: white;
+    vertical-align: top;
+            
+    }
+
+.food-four img{
+    height:70%;
+    width:99%;
+}
+
+.content-four{
+
+    text-align: center;
+}
+
+des{
+    display:block;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+.button-four{
+    padding: 2px;
+    background-color:black;
+    color:white;
+}
+
+.container{
+    text-align: center;
+}
+
+.food-one,
+.food-two,
+.food-three,
+.food-four{
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.contact-form{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    width: 1000px;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+table{
+    margin: auto;
+}
+
+.button-five{
+    width: 400px;
+    font-weight: bold;
+    
+}
+
+.button-five:hover{
+    background-color:orange;
+
+}
+
